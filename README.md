@@ -1,4 +1,4 @@
-# food-delivery-service
+# Food-Delivery-Aggregator-Python
 Food aggregator service with Python as front-and and MySQL as back-end provision. Identified several novel features for ease of use and efficient supply management. Utilized PyQt as GUI toolkit and LiClipse as Interface IDE.
 <br>
 Adwait Rangnekar<br>
